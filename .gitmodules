@@ -1,0 +1,12 @@
+[submodule "auth"]
+	path = auth
+	url = git@github.com:argueta15/auth.git
+[submodule "core"]
+	path = core
+	url = git@github.com:argueta15/core.git
+[submodule "export"]
+	path = export
+	url = git@github.com:argueta15/export.git
+[submodule "finance"]
+	path = finance
+	url = git@github.com:argueta15/finance.git
